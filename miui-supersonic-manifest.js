@@ -15,6 +15,7 @@
         screenshots:
         [
             "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202859.jpg",
+            "http://dl.dropbox.com/u/3206856/screenshot/20101004_231332.jpg",
             "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202911.jpg",
             "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202916.jpg",
             "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202933.jpg"
