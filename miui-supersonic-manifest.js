@@ -14,10 +14,10 @@
         modversion: "1",
         screenshots:
         [
-            "http://forum.xda-developers.com/attachment.php?attachmentid=407405&d=1285374918",
-            "http://forum.xda-developers.com/attachment.php?attachmentid=407406&d=1285374918",
-            "http://forum.xda-developers.com/attachment.php?attachmentid=407407&d=1285374918",
-            "http://forum.xda-developers.com/attachment.php?attachmentid=407408&d=1285374918"
+            "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202859.jpg",
+            "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202911.jpg",
+            "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202916.jpg",
+            "http://dl.dropbox.com/u/3206856/screenshot/snap20100924_202933.jpg"
         ],
         urls:
         [
