@@ -6,7 +6,7 @@
     [
     // =====MIUI EVO 1.23
     {
-        name: "MIUI-EVO",
+        name: "MIUI-EVO 1.23",
         summary: "Supersonic (EVO) port of MIUI ROM",
         device: "supersonic",
         product: "MIUI",
@@ -27,7 +27,7 @@
     },
     // =====MIUI EVO 1.22
     {
-        name: "MIUI-EVO",
+        name: "MIUI-EVO 1.22",
         summary: "Supersonic (EVO) port of MIUI ROM",
         device: "supersonic",
         product: "MIUI",
