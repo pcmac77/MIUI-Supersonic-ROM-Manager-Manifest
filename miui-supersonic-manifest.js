@@ -24,7 +24,7 @@
         [
             "http://dl.dropbox.com/u/3206856/MIUI_EVO-v1.23.zip"
         ]
-    }
+    },
     // =====MIUI EVO 1.22
     {
         name: "MIUI-EVO",
